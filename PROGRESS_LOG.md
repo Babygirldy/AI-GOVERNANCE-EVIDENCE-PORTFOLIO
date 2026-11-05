@@ -1,0 +1,19 @@
+# Portfolio progress and evidence history
+
+| Date | Session | Verifiable deliverable | Status | Next action |
+| --- | --- | --- | --- | --- |
+| 20 Oct 2026 | Day 01 masterclass: flying cars, regulatory fragmentation and AI governance | Conceptual scenario; accompanying study materials first drafted 28 Oct 2026 | **AI-assisted study draft**; independent verification and personal reflection pending | Verify UK CAA/road rules and complete independent governance memo |
+| 22 Oct 2026 | Day 02: AI recruitment governance | Six-sheet workbook assessing fictional Northstar Talent UK / HireSort AI | **Partly completed by learner**; intake, R-01 to R-03, evidence tracker and interview answer entered | Complete R-04 to R-07, mark learning-check status, test legal assumptions |
+| 05 Nov 2026 | Evidence capture | Structured GitHub-readable portfolio pages created from prior study material and attached workbook | **Transcription/curation**, not new primary research | Original workbook preserved in dedicated repository; continue independent review and further case studies |
+
+## Source-of-truth policy
+
+1. Preserve the learner's original workbook separately from interpretive notes.
+2. Record assumptions, source dates and limitations.
+3. Never turn 'missing evidence' into 'verified compliance' without documentary proof.
+4. Make meaningful commits when analysis changes, explaining why.
+5. Cite primary sources and distinguish law from policy, guidance and proposed reforms.
+
+## Portfolio consolidation (5 November 2026)
+
+Day 01 and Day 02 documents copied from the earlier customer-success repository into this dedicated AI governance repository. The original Excel file is retained at `projects/day-02-ai-recruitment/Day_2_AI_Governance_Career_Lab.xlsx`, with matching Git blob hash. The historical commits remain visible in the earlier repository; this repository records development from the migration onward.
