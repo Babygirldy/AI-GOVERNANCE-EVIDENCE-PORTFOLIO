@@ -12,6 +12,14 @@ This public portfolio records my development through applied AI governance case 
 | --- | --- | --- |
 | [Day 01 — Flying Cars & Regulatory Fragmentation](projects/day-01-flying-cars/README.md) | UK road/aviation regulation, illustrative risk assessment, primary sources | **Study draft**; independent verification and personal reflections outstanding |
 | [Day 02 — AI Recruitment Governance](projects/day-02-ai-recruitment/README.md) | System intake, risk assessment, evidence tracker, deployment recommendation, interview answer | **Work in progress**; four risk rows and learning checks incomplete |
+| [Day 03 — Healthcare AI: SepsisWatch](projects/day-03-healthcare-ai/README.md) | Fictional hospital inventory, eight-risk register, preliminary impact assessment, evidence plan | **Guided draft only**; no independent learner review, real tests or regulatory approvals |
+
+### Guided learning and next actions
+
+- [Months 0–3 step-by-step execution plan](MONTHS_0_TO_3_EXECUTION_PLAN.md) — a 12-week plan, **not** a record of completed study.
+- [Day 02 risk expansion (R-04–R-07)](projects/day-02-ai-recruitment/risk-register-expansion-worked-example.md) — assistant-provided examples for learner review; the original workbook still has blank rows.
+- [Day 02 guided learning checks](projects/day-02-ai-recruitment/learning-check-guided-assessment.md) — assessment tasks, not demonstrated competencies.
+- [Day 03 hospital AI case](projects/day-03-healthcare-ai/README.md) — illustrative, with explicit assurance gaps.
 
 ### Evidence files
 
