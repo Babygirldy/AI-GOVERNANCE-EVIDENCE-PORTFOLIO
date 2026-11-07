@@ -6,6 +6,8 @@
 | 22 Oct 2026 | Day 02: AI recruitment governance | Six-sheet workbook assessing fictional Northstar Talent UK / HireSort AI | **Partly completed by learner**; intake, R-01 to R-03, evidence tracker and interview answer entered | Complete R-04 to R-07, mark learning-check status, test legal assumptions |
 | 05 Nov 2026 | Evidence capture | Structured GitHub-readable portfolio pages created from prior study material and attached workbook | **Transcription/curation**, not new primary research | Original workbook preserved in dedicated repository; continue independent review and further case studies |
 
+| 07 Nov 2026 | Guided drafting to support Months 0–3 completion | Assistant-authored Day 02 R-04–R-07 worked examples, learning-check guide, and fictional Day 03 healthcare inventory/risk/impact/evidence drafts; 12-week action plan | **Tutor-prepared learning materials, not learner-verified completion, certification or clinical assurance** | Learner should review one risk at a time, date actual work, correct assumptions and create a reviewed workbook version |
+
 ## Source-of-truth policy
 
 1. Preserve the learner's original workbook separately from interpretive notes.
