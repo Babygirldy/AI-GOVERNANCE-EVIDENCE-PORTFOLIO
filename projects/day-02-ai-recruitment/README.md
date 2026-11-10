@@ -25,6 +25,10 @@ Northstar Talent UK is considering a supplier-provided AI CV-ranking system to s
 
 A vendor's claim of strong accuracy is not proof of fair, safe or lawful use. Before deployment, the organisation should determine how applicants are affected, obtain meaningful assurance evidence, assess applicable UK data protection and equality obligations, identify genuine human oversight and formally record accountability.
 
+## Learner's first R-04 reasoning (10 November 2026)
+
+- [Original learner questions and coached R-04 revision](r04-learner-response-2026-11-10.md) — includes the learner's **verbatim** initial response and a separately identified assistant-authored professional example. Status remains **in progress**; no independent test evidence or final assessment has been completed.
+
 ## New guided materials (7 November 2026)
 
 - [R-04–R-07 model risks](risk-register-expansion-worked-example.md) — **assistant-authored illustrative responses**; the original learner Excel file remains unchanged.
