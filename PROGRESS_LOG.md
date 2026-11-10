@@ -10,6 +10,8 @@
 
 | 10 Nov 2026 | Day 02, R-04: learner reasoning exercise | [Learner's four verbatim questions and separately labelled coaching response](projects/day-02-ai-recruitment/r04-learner-response-2026-11-10.md) | **Learner engagement recorded; R-04 still in progress** | Learner to articulate harm and a specific safeguard in own words, then edit a dated workbook copy |
 
+| 10 Nov 2026 | Python AI risk triage prototype | [Runnable code, sample data, six tests and example report](projects/python-ai-risk-triage/README.md) | **Assistant-authored example; six automated tests passed locally; learner-run verification outstanding** | Review tool and run it once when ready; discuss why score alone cannot authorise deployment |
+
 ## Source-of-truth policy
 
 1. Preserve the learner's original workbook separately from interpretive notes.
