@@ -23,6 +23,10 @@ This public portfolio records my development through applied AI governance case 
 - [Day 02 guided learning checks](projects/day-02-ai-recruitment/learning-check-guided-assessment.md) — assessment tasks, not demonstrated competencies.
 - [Day 03 hospital AI case](projects/day-03-healthcare-ai/README.md) — illustrative, with explicit assurance gaps.
 
+### New technical demonstration (10 November 2026)
+
+- [Python AI Risk Triage Tool](projects/python-ai-risk-triage/README.md) — runnable, six-test teaching prototype, using fictional recruitment and healthcare risks. **Assistant-built and tested; hands-on learner capability not yet independently demonstrated.** Includes a [sample summary](projects/python-ai-risk-triage/outputs/summary.md).
+
 ### Evidence files
 
 - [Original Day 02 Excel workbook](projects/day-02-ai-recruitment/Day_2_AI_Governance_Career_Lab.xlsx) — preserved workbook, identical bytes to the original uploaded in my earlier repository.
