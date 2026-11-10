@@ -17,6 +17,13 @@
 
 The [detailed Months 0–3 plan](MONTHS_0_TO_3_EXECUTION_PLAN.md) organises these tasks. **First** complete and defend Day 02 R-04–R-07 using the [guided examples](projects/day-02-ai-recruitment/risk-register-expansion-worked-example.md); **second** review the [Day 03 healthcare case](projects/day-03-healthcare-ai/README.md) to produce original judgements. The new hospital assessments are assistant-provided **drafts**, not final or independently verified evidence.
 
+## Fast-track working mode (from 10 November 2026)
+
+The learner requested fewer repetitive prompts and more practical artefacts. We will build and document substantive projects first, then use **one brief review of important judgement calls** instead of repeated micro-quizzes. Assistant-created examples must remain labelled; only the learner's actual review, execution and modifications may be counted as hands-on evidence.
+
+- [Working Python AI risk triage prototype](projects/python-ai-risk-triage/README.md) — practical technical example with tests and evidence-gap output.
+- Keep AIGP paid certification preparation paused for now; continue independent practical AI governance learning.
+
 ## Standards for every case study
 
 1. State facts and assumptions separately.
