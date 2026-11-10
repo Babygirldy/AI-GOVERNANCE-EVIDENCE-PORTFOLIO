@@ -1,0 +1,7 @@
+risk_id,system,risk_event,likelihood,impact,owner,control,evidence_status,inherent_score,inherent_band,residual_risk,approval_status
+R-04,HireSort AI,Qualified applicants incorrectly ranked below interview threshold,3,4,Recruitment Analytics Lead,Representative validation and independent recruiter review,missing,12,Medium,NOT ASSESSED,NOT ASSESSED
+R-05,HireSort AI,Applicants cannot understand or contest impactful AI screening,4,4,Head of Talent Acquisition,Clear notices and human review channel,requested,16,High,NOT ASSESSED,NOT ASSESSED
+R-06,HireSort AI,Unauthorised access exposes candidate personal information,3,5,Information Security Lead,Least privilege and supplier security assessment,missing,15,High,NOT ASSESSED,NOT ASSESSED
+R-07,HireSort AI,Vendor model update degrades performance without detection,3,4,AI System Owner,Version gating and monitoring,missing,12,Medium,NOT ASSESSED,NOT ASSESSED
+H-01,SepsisWatch AI,Failure to alert on deterioration delays clinical review,3,5,Clinical Safety Officer,Independent clinical validation and escalation pathway,missing,15,High,NOT ASSESSED,NOT ASSESSED
+H-05,SepsisWatch AI,Clinicians over-rely on AI and miss contradictory clinical signs,4,5,Medical Director,Training and effective human oversight,missing,20,High,NOT ASSESSED,NOT ASSESSED
